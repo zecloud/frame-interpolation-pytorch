@@ -79,8 +79,6 @@ def inference(model_path, img1, img2, save_path, gpu, inter_frames, fps, half):
     for frame in frames:
         writer.write(frame)
 
-    for frame in frames[1:][::-1]:
-        writer.write(frame)
 
     writer.release()
 
