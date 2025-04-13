@@ -1,3 +1,4 @@
+<a href="https://savelife.in.ua/en/donate-en/"><img src="https://savelife.in.ua/wp-content/themes/savelife/assets/images/new-logo-en.svg" width=120px></a>
 # Frame interpolation in PyTorch
 
 This is an unofficial PyTorch inference implementation
@@ -9,7 +10,7 @@ model.
 
 # Quickstart
 
-Download a compiled model from [the release](https://github.com/dajes/frame-interpolation-pytorch/releases/tag/v1.0.0)
+Download a compiled model from [the release](https://github.com/dajes/frame-interpolation-pytorch/releases)
 and specify the path to the file in the following snippet:
 
 ```python
